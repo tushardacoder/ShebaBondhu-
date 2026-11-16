@@ -1,4 +1,5 @@
 
+
 # Product Requirements Document (PRD)
 # ShebaBondhu – All-in-One Local Services Marketplace
 
@@ -26,7 +27,7 @@ The platform will provide a centralized solution for everyday needs, including:
 - Packers and movers.
 - Salon and beauty appointments.
 - Private tuition and tutor discovery.
-- neighborhood services.
+- neighborhood services such as finding (electricians, gas technicians , plumbers and other technicians).
 - Customer feedback and provider ratings.
 
 Instead of using different platforms for different services, users can access everything through one application.
@@ -61,6 +62,7 @@ A person looking for local services, properties, transportation or educational s
 
 ### 2.2 Service Provider
 
+
 Professionals offering services such as:
 
 - Electricians.
@@ -70,7 +72,8 @@ Professionals offering services such as:
 - Mechanics.
 - Packers and movers.
 - Tutors.
-- Other local professionals.
+
+7- Other local professionals(driver, and others)
 
 ### 2.3 Business Owner
 
@@ -161,9 +164,10 @@ Users can switch between customer and provider activities without creating multi
 - Cleaning.
 - General home maintenance.
 
+
 ### Provider Features
 
-- Create technician profiles.
+- Create technician/service provider profiles.
 - Select service categories.
 - Specify service areas.
 - Add experience and qualifications.
@@ -205,7 +209,6 @@ This module connects people who want to move their belongings from one house or 
 
 ### Service Categories
 
-- House shifting.
 - Apartment shifting.
 - Office shifting.
 - Furniture transportation.
